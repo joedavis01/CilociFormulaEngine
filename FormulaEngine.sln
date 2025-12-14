@@ -4,7 +4,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "lib", "lib\lib.vbproj", "{E
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tests", "Tests\Tests.vbproj", "{94236A37-CED1-43BF-8B8B-5F4BAADD4A60}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleTester", "ConsoleTester\ConsoleTester.vbproj", "{656293D3-A14D-4BBE-877C-DD3A12C4F967}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTester", "ConsoleTester\ConsoleTester.csproj", "{656293D3-A14D-4BBE-877C-DD3A12C4F967}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GridSample", "GridSample\GridSample.vbproj", "{CAC408EE-588B-4793-A07D-A55E9729E442}"
 EndProject
